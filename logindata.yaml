@@ -1,0 +1,30 @@
+
+default: patchcore
+
+baseline_a:
+  user: '17299999999'
+  url: https://feature.kingdee.com:2024/baseline_a
+  appId: test888
+  appSecuret: /skvUmfKu6fLZIiqBuLj8g==
+  language: zh_CN
+  accountId: '1173910536060928000'
+  usertype: Mobile
+
+patchcore:
+  user: '17299999999'
+  url: https://feature.kingdee.com:1026/patchcore
+  appId: test888
+  appSecuret: /skvUmfKu6fLZIiqBuLj8g==
+  language: zh_CN
+  accountId: '966416219416561664'
+  usertype: Mobile
+
+
+eme_grayscole:
+  user: '17299999999'
+  url: https://feature.kingdee.com:2024/eme_grayscole
+  appId: test888
+  appSecuret: /skvUmfKu6fLZIiqBuLj8g==
+  language: zh_CN
+  accountId: '1125344893896491008'
+  usertype: Mobile

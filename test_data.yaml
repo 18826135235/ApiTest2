@@ -1,0 +1,14 @@
+
+default: patchcore
+
+baseline_a:
+  key: bas/coderule/1UODVNDBYCP/11_split_11_split_11.0000000000_split_1_split_11
+  data: 22
+
+patchcore:
+  key: bas/coderule//S9B8W3DWA45210816
+  data: 22
+
+eme_grayscole:
+  key: 111
+  data: 22
